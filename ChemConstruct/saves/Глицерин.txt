@@ -1,0 +1,28 @@
+Atom 1092.0 452.0 31 185,185,0 C Углерод
+Atom 950 452 31 185,185,0 C Углерод
+Atom 808.0 452.0 31 185,185,0 C Углерод
+Atom 1092.0 315.0 26 0,185,0 H Водород
+Atom 950.0 315.0 26 0,185,0 H Водород
+Atom 808.0 315.0 26 0,185,0 H Водород
+Atom 671.0 452.0 26 0,185,0 H Водород
+Atom 808.0 735.0 26 0,185,0 H Водород
+Atom 808.0 596.0 33 185,185,0 O Кислород
+Atom 950.0 596.0 33 185,185,0 O Кислород
+Atom 1092.0 596.0 33 185,185,0 O Кислород
+Atom 1229.0 452.0 26 0,185,0 H Водород
+Atom 1092.0 735.0 26 0,185,0 H Водород
+Atom 950.0 735.0 26 0,185,0 H Водород
+
+Connection 3 0 1
+Connection 11 0 1
+Connection 10 0 1
+Connection 12 10 1
+Connection 4 1 1
+Connection 9 1 1
+Connection 0 1 1
+Connection 13 9 1
+Connection 2 1 1
+Connection 5 2 1
+Connection 6 2 1
+Connection 8 2 1
+Connection 7 8 1

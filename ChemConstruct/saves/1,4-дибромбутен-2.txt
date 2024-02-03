@@ -1,0 +1,24 @@
+Atom 909.0 453.0 31 185,185,0 C Углерод
+Atom 767.0 453.0 31 185,185,0 C Углерод
+Atom 1193 453 31 185,185,0 C Углерод
+Atom 1051.0 453.0 31 185,185,0 C Углерод
+Atom 1051.0 316.0 26 0,185,0 H Водород
+Atom 909.0 590.0 26 0,185,0 H Водород
+Atom 630.0 453.0 26 0,185,0 H Водород
+Atom 1330.0 453.0 26 0,185,0 H Водород
+Atom 767.0 316.0 26 0,185,0 H Водород
+Atom 1193.0 316.0 26 0,185,0 H Водород
+Atom 767.0 624.0 60 185,185,0 Br Бром
+Atom 1193.0 624.0 60 185,185,0 Br Бром
+
+Connection 1 0 1
+Connection 3 2 1
+Connection 0 3 2
+Connection 8 1 1
+Connection 6 1 1
+Connection 9 2 1
+Connection 7 2 1
+Connection 4 3 1
+Connection 5 0 1
+Connection 10 1 1
+Connection 11 2 1
